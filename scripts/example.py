@@ -1,1 +1,1 @@
-print("Hello, World!")\nraise Exception("This is a test exception.")
+print("Hello, World!")
