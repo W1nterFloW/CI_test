@@ -27,3 +27,4 @@ jobs:
       - name: Run script
         run: |
           python scripts/example.py
+          python scripts/example2.py
