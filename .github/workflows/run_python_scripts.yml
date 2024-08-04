@@ -26,4 +26,5 @@ jobs:
 
       - name: Run script
         run: |
-          python scripts/example.py
+          cd scripts
+          python example.py
