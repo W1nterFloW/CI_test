@@ -1,5 +1,5 @@
 import sys
-sys.append('../')
+sys.path.append('../')
 print("Hello, World!")
 import torch
 print(torch.tensor([1,2,3,4]))
